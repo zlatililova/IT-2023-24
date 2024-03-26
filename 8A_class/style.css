@@ -1,0 +1,21 @@
+/* h1 {
+  color: salmon;
+  /* background-color: blue; */
+  /* height: 3em;
+  width: 3em; */
+  font-size: 6rem;
+  border: 1px solid red;
+  border-radius: 6px;
+  padding: 100px 50px 150px 100px;
+  /* margin-bottom: 200px;
+  margin-left: 300px;
+  margin-right: 100px; */
+  margin: 50px;
+  margin-top: 160px;
+} */
+
+.parent {
+  display: flex;
+  flex-direction: row;
+  
+}
